@@ -1,0 +1,40 @@
+.box-footer.statistic{
+    margin-bottom: 20px;
+}
+.view__product{
+    background: #22a3c3;
+    border-radius: 4px;
+}
+.view__product h4{
+    background: #1e88a2;
+}
+.view__project{
+    background: #bf862d;
+    border-radius: 4px;
+}
+.view__project h4{
+    background: #a9731f;
+}
+.view__blog{
+    background: #37a070;
+    border-radius: 4px;
+}
+.view__blog h4{
+    background: #1c8d5a;
+}
+.view__product h4, .view__blog h4, .view__project h4{
+    text-align: center;
+    padding: 5px 0px;
+    font-size: 18px;
+    color: #fff;
+    border-top-left-radius: 4px;
+    border-top-right-radius: 4px;
+}
+.view__project ol, .view__product ol, .view__blog ol {
+    padding-bottom: 25px;
+    padding-right: 45px;
+    text-align: justify;
+}
+.view__product ol li a , .view__project ol li a, .view__blog ol li a{
+    color: #fff;
+}
